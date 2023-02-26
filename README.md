@@ -46,4 +46,4 @@
 </br>
 
 ## 📊 Current GitHub Stats
-![Pablo Guerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=plguerradesigns&show_icons=true&theme=dark)
+![Pablo Guerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=plguerradesigns&theme=radical&show_icons=true&count_private=true)
