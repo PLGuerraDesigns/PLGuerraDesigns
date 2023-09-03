@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Pablo L. Guerra 👋</h1>
-<h3 align="center">Engineer | Innovator | Student of Life</h3>
+<h3 align="center">Technologist | Innovator | Student of Life</h3>
 
 
 ## 🔗 Social Links
@@ -44,6 +44,3 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&color=FCC624&logo=Linux&logoColor=black)
 
 </br>
-
-## 📊 Current GitHub Stats
-![Pablo Guerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=plguerradesigns&theme=radical&show_icons=true&count_private=true)
