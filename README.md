@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Pablo L. Guerra 👋</h1>
-<h3 align="center">Technologist | Innovator | Student of Life</h3>
+<h3 align="center">Software Engineer • Innovator • Technologist</h3>
 
 
 ## 🔗 Social Links
@@ -10,8 +10,8 @@
 </br>
 
 ## 🧰 Core Tools
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&color=3776AB&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&color=0175C2&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&color=3776AB&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&color=00599C&logo=c++&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown)
@@ -38,9 +38,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&color=A22846&logo=RaspberryPi&logoColor=white)
 
 ![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&color=000000&logo=Apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&color=000000&logo=Apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&color=0078D6&logo=Windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&color=3DDC84&logo=Android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&color=FCC624&logo=Linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&color=3DDC84&logo=Android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&color=000000&logo=Apple&logoColor=white)
 
 </br>
