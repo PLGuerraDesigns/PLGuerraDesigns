@@ -82,13 +82,6 @@ src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/i
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&color=0052CC&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-black?style=for-the-badge&color=172B4D&logo=Confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&color=0052CC&logo=Trello&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&color=31A8FF&logo=AdobePhotoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=for-the-badge&color=FF61F6&logo=AdobeXD&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&color=F24E1E&logo=figma&logoColor=white)
-
-![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&color=0052CC&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-black?style=for-the-badge&color=172B4D&logo=Confluence&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&color=0052CC&logo=Trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-black?style=for-the-badge&color=4A154B&logo=Slack&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&color=00979D&logo=Arduino&logoColor=white)
