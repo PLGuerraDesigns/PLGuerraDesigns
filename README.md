@@ -1,3 +1,5 @@
+[![youtube-banner.png](https://i.postimg.cc/kMzjmXJT/youtube-banner.png)](https://postimg.cc/Z0PPPmyN)
+
 <h1 align="center"> Hey, I'm Pablo L. Guerra 👋</h1>
 <h3 align="center">Software Engineer • Innovator • Technologist</h3>
 
@@ -5,56 +7,57 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/plguerra/)
 [![Thingiverse](https://img.shields.io/badge/Thingiverse-black?style=for-the-badge&logo=Thingiverse&logoColor=white&color=248BFB)](https://www.thingiverse.com/plg_designs/designs)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://plguerradesigns.github.io/portfolio/#/)
+[![[YouTube](](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAKxkFJTWWuE6wdDCH-xyw)
+[![Portfolio Web App](https://img.shields.io/badge/Portfolio%20Web%20App-black?style=for-the-badge&color=3c5c41)](https://plguerradesigns.github.io/portfolio/)
 
 </br>
 
 ## 💼 Professional Work
-[<img alt="Static Badge" src="https://img.shields.io/badge/Atlantic_Insurance_Company_Ltd.-Contract_Software_Engineer-02569B">](https://plguerradesigns.github.io/portfolio/#/home/professional/details/atlantic_insurance_company_ltd._contract_software_engineer)
+[<img alt="Static Badge" src="https://img.shields.io/badge/Atlantic_Insurance_Company_Ltd.-Contract_Software_Engineer-02569B">](https://plguerradesigns.github.io/portfolio/#/home/professional-experiences/details/atlantic-insurance-company-ltd._contract-software-engineer)
 
-<img 
-src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/professional/atlantic_insurance/thumbnail.webp" width="300">
-
-</br>
-
-[<img alt="Static Badge" src="https://img.shields.io/badge/AMBOTS_Inc.-Lead_Robotics_Engineer-02569B">](https://plguerradesigns.github.io/portfolio/#/home/professional/details/ambots_inc._lead_robotics_engineer)
-
-<img
-src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/professional/ambots/thumbnail.webp" width="300">
+[<img 
+src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/professional/atlantic_insurance/thumbnail.webp" width="300">](https://plguerradesigns.github.io/portfolio/#/home/professional-experiences/details/atlantic-insurance-company-ltd._contract-software-engineer)
 
 </br>
 
-[<img alt="Static Badge" src="https://img.shields.io/badge/AM3_Lab-Graduate_Research_Assistant-02569B">](https://plguerradesigns.github.io/portfolio/#/home/professional/details/am3_lab_graduate_research_assistant)
+[<img alt="Static Badge" src="https://img.shields.io/badge/AMBOTS_Inc.-Lead_Robotics_Engineer-02569B">](https://plguerradesigns.github.io/portfolio/#/home/professional-experiences/details/ambots-inc._lead-robotics-engineer)
 
-<img
-src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/professional/am3_lab/thumbnail.webp" width="300">
+[<img
+src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/professional/ambots/thumbnail.webp" width="300">](https://plguerradesigns.github.io/portfolio/#/home/professional-experiences/details/ambots-inc._lead-robotics-engineer)
+
+</br>
+
+[<img alt="Static Badge" src="https://img.shields.io/badge/AM3_Lab-Graduate_Research_Assistant-02569B">](https://plguerradesigns.github.io/portfolio/#/home/professional-experiences/details/university-of-arkansas-(am3-lab)_graduate-research-assistant)
+
+[<img
+src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/professional/am3_lab/thumbnail.webp" width="300">](https://plguerradesigns.github.io/portfolio/#/home/professional-experiences/details/university-of-arkansas-(am3-lab)_graduate-research-assistant)
 
 </br>
 
 ## 🗃️ Notable Projects
 
-[<img alt="Static Badge" src="https://img.shields.io/badge/3D_Printing-AMG_GT3_Inspired_Mobile_Sim_Wheel-FFD700">](https://plguerradesigns.github.io/portfolio/#/home/personal/details/amg_inspired_mobile_sim_wheel)
+[<img alt="Static Badge" src="https://img.shields.io/badge/3D_Printing-AMG_GT3_Inspired_Mobile_Sim_Wheel-FFD700">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/mobile-sim-wheel)
 
-<img src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/amg_inspired_mobile_sim_wheel/thumbnail.webp" width="300">
-
-</br>
-
-[<img alt="Static Badge" src="https://img.shields.io/badge/Web_App-SWE_632_Lottery-02569B">](https://plguerradesigns.github.io/portfolio/#/home/personal/details/swe_632_lottery)
-
-<img src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/swe_632_lottery/thumbnail.webp" width="300">
+[<img src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/mobile_sim_wheel/thumbnail.webp" width="300">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/mobile-sim-wheel)
 
 </br>
 
-[<img alt="Static Badge" src="https://img.shields.io/badge/Web_App-Flutter_Resume_Builder-02569B">](https://plguerradesigns.github.io/portfolio/#/home/personal/details/flutter_resume_builder)
+[<img alt="Static Badge" src="https://img.shields.io/badge/Web_App-SWE_632_Lottery-02569B">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/swe-632-lottery)
 
-<img src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/flutter_resume_builder/thumbnail.webp" width="300">
+[<img src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/swe_632_lottery/thumbnail.webp" width="300">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/swe-632-lottery)
 
 </br>
 
-[<img alt="Static Badge" src="https://img.shields.io/badge/3D_Printing-AMG_GT3_Wheel_Kit-FFD700">](https://plguerradesigns.github.io/portfolio/#/home/personal/details/amg_gt3_wheel)
+[<img alt="Static Badge" src="https://img.shields.io/badge/Web_App-Flutter_Resume_Builder-02569B">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/flutter-resume-builder)
 
-<img
-src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/amg_gt3_wheel/thumbnail.webp" width="300">
+[<img src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/flutter_resume_builder/thumbnail.webp" width="300">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/flutter-resume-builder)
+
+</br>
+
+[<img alt="Static Badge" src="https://img.shields.io/badge/3D_Printing-AMG_GT3_Wheel_Kit-FFD700">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/amg-gt3-wheel)
+
+[<img
+src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/amg_gt3_wheel/thumbnail.webp" width="300">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/amg-gt3-wheel)
 
 </br>
 
