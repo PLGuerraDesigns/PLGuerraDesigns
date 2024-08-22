@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/plguerra/)
 [![Thingiverse](https://img.shields.io/badge/Thingiverse-black?style=for-the-badge&logo=Thingiverse&logoColor=white&color=248BFB)](https://www.thingiverse.com/plg_designs/designs)
 [![[YouTube](](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAKxkFJTWWuE6wdDCH-xyw)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-black?style=for-the-badge&color=272539)](https://www.boot.dev/u/plguerra)
 [![Portfolio Web App](https://img.shields.io/badge/Portfolio%20Web%20App-black?style=for-the-badge&color=3c5c41)](https://plguerradesigns.github.io/portfolio/)
 
 <br />
