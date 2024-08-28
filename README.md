@@ -8,6 +8,7 @@
 [![Thingiverse](https://img.shields.io/badge/Thingiverse-black?style=for-the-badge&logo=Thingiverse&logoColor=white&color=248BFB)](https://www.thingiverse.com/plg_designs/designs)
 [![[YouTube](](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZAKxkFJTWWuE6wdDCH-xyw)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-black?style=for-the-badge&color=272539)](https://www.boot.dev/u/plguerra)
+
 [![Portfolio Web App](https://img.shields.io/badge/Portfolio%20Web%20App-black?style=for-the-badge&color=3c5c41)](https://plguerradesigns.github.io/portfolio/)
 
 <br />
@@ -72,6 +73,11 @@ src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/i
 src="https://raw.githubusercontent.com/PLGuerraDesigns/portfolio/master/assets/images/personal/amg_gt3_wheel/thumbnail.webp" width="300">](https://plguerradesigns.github.io/portfolio/#/home/personal-projects/details/amg-gt3-wheel)
 
 <br />
+
+## 📜 Certifications
+
+- [Python](https://www.boot.dev/certificate/plguerra/f9a25dfb-3e00-4727-ac78-36de82315355)
+- [Go](https://www.boot.dev/certificate/plguerra/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
 
 ## 🧰 Core Tools
 
