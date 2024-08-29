@@ -69,8 +69,11 @@
 ![GitKraken](https://img.shields.io/badge/GitKraken-black?style=for-the-badge&color=179287&logo=GitKraken&logoColor=white)
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-black?style=for-the-badge&color=31A8FF&logo=AdobePhotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black?style=for-the-badge&color=FF9A00&logo=AdobeIllustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=for-the-badge&color=FF61F6&logo=AdobeXD&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&color=F24E1E&logo=figma&logoColor=white)
+
+![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-black?style=for-the-badge&color=000000&logo=autodesk&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&color=0052CC&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-black?style=for-the-badge&color=172B4D&logo=Confluence&logoColor=white)
