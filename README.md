@@ -89,3 +89,5 @@
 ![iOS](https://img.shields.io/badge/iOS-black?style=for-the-badge&color=000000&logo=Apple&logoColor=white)
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plguerradesigns&layout=compact&theme=radical)](https://github.com/plguerradesigns/github-readme-stats)
