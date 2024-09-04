@@ -2,6 +2,8 @@
 <h1 align="center"> Hey, I'm Pablo L. Guerra 👋</h1>
 <h3 align="center">Software Engineer • Innovator • Technologist</h3>
 
+<h4 align="center"> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world. ~Archimedes </h4>
+
 ## 🔗 Social Links
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/plguerra/)
@@ -64,6 +66,7 @@
 
 ![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&color=0175C2&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&color=3776AB&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&color=00599C&logo=c++&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown)
 
