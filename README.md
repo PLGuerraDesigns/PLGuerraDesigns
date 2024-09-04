@@ -27,8 +27,11 @@
 
 ## 📜 Certifications
 
-- [Go](https://www.boot.dev/certificate/plguerra/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
-- [Python](https://www.boot.dev/certificate/plguerra/f9a25dfb-3e00-4727-ac78-36de82315355)
+| Boot.dev | Coursera |
+|-----------|-----------|
+| [Go](https://www.boot.dev/certificate/plguerra/3b39d0f6-f944-4f1b-832d-a1daba32eda4) | [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/ENULN3R2D2JW) |
+| [Python](https://www.boot.dev/certificate/plguerra/f9a25dfb-3e00-4727-ac78-36de82315355) | |
+
 
 <br />
 
