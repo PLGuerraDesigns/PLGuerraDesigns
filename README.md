@@ -27,10 +27,15 @@
 
 ## 📜 Certifications
 
-| Boot.dev | Coursera |
-|-----------|-----------|
-| [Go](https://www.boot.dev/certificate/plguerra/3b39d0f6-f944-4f1b-832d-a1daba32eda4) | [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/ENULN3R2D2JW) |
-| [Python](https://www.boot.dev/certificate/plguerra/f9a25dfb-3e00-4727-ac78-36de82315355) | |
+### Boot.dev
+- [Learn Go Course](https://www.boot.dev/certificate/plguerra/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
+- [Learn Python Course](https://www.boot.dev/certificate/plguerra/f9a25dfb-3e00-4727-ac78-36de82315355)
+
+### Vanderbilt (Coursera)
+- [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/ENULN3R2D2JW)
+
+### Google (Coursera)
+- [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/verify/R4MV0TDWNC34)
 
 
 <br />
