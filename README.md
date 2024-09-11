@@ -32,6 +32,7 @@
 ### Boot.dev
 - [Learn Go Course](https://www.boot.dev/certificate/plguerra/3b39d0f6-f944-4f1b-832d-a1daba32eda4)
 - [Learn Python Course](https://www.boot.dev/certificate/plguerra/f9a25dfb-3e00-4727-ac78-36de82315355)
+- [Learn Shells and Terminals](https://www.boot.dev/certificate/plguerra/bc7a07ef-ab87-42ab-80de-e7261f2c58a0)
 
 ### Vanderbilt University (Coursera)
 - [Prompt Engineering for ChatGPT](https://www.coursera.org/account/accomplishments/verify/ENULN3R2D2JW)
