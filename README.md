@@ -2,6 +2,10 @@
 <h1 align="center"> Hey, I'm Pablo L. Guerra 👋</h1>
 <h3 align="center">Software Engineer • Innovator • Technologist</h3>
 
+<p align="justify">I am experienced in the research, development, and implementation of custom technologies and software solutions, focusing on 3D printing, IoT devices, and front-end development. Proficient in leveraging technologies such as DUET and Marlin firmware, SCARA and Cartesian 3D printers, Arduino, Raspberry Pi, and the Flutter framework to deliver cross-platform applications for iOS, Android, and the web. I have contributed to developing patented Swarm Manufacturing technologies and leading projects that utilize collaborative 3D printing platforms. My expertise spans project discovery, planning, and delivery, integrating CI/CD pipelines, testing suites, and deployment processes to streamline development. With a general understanding of other engineering disciplines, such as mechanical and electrical engineering, I work closely with cross-functional teams to deliver optimized, scalable, and intuitive solutions. Driven by continuous learning, I am committed to delivering impactful results and supporting team success.</p>
+<br />
+
+
 <h4 align="center"> Give me a lever long enough and a fulcrum on which to place it, and I shall move the world. ~Archimedes </h4>
 
 ## 🔗 Social Links
