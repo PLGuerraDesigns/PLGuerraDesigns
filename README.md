@@ -31,6 +31,13 @@
 
 <br />
 
+## 📦 Flutter Packages
+
+- [HoverScaleHandler](https://pub.dev/packages/hover_scale_handler) - A Flutter widget that adds hover and tap scale animations to any widget, enhancing user interaction with visual feedback.
+- [Dashatar Flutter](https://pub.dev/packages/dashatar_flutter) - A Flutter package that provides an API for using [Dashatars](https://github.com/PersianFlutter/dashatars) in Flutter projects.
+
+<br />
+
 ## 📜 Certifications
 
 ### Boot.dev
