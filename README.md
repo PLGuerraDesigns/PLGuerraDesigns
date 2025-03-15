@@ -1,4 +1,4 @@
-![youtube-banner.png](https://i.postimg.cc/kMzjmXJT/youtube-banner.png)
+![youtube-banner.png](https://i.postimg.cc/zfFJfx18/youtube-banner.webp)
 <h1 align="center"> Hey, I'm Pablo L. Guerra 👋</h1>
 <h3 align="center">Software Engineer • Innovator • Technologist</h3>
 
