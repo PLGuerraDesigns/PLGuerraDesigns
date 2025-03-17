@@ -33,6 +33,7 @@
 
 ## 📦 Flutter Packages
 
+- [Widget Snippet](https://pub.dev/packages/widget_snippet) - A Flutter package for showcasing widget code snippets. Display, copy, and download widget previews with their source code in various presentation formats.
 - [Pull Tab Menu](https://pub.dev/packages/pull_tab_menu) - PullTabMenu brings elegant context menus to Flutter apps through a discreet, pull-out tab interface. Preserve your interface's clean aesthetic while providing immediate access to actions when users need them. Perfect for creative applications where screen space and functionality must be balanced.
 - [IntuoSol Design System](https://pub.dev/packages/intuosol_design_system) - A Flutter package that provides IntuoSol's brand-consistent UI components, theming, and logos for building applications with a unified visual identity.
 - [Dashatar Flutter](https://pub.dev/packages/dashatar_flutter) - A Flutter package that provides an API for using Dash avatars ([Dashatars](https://github.com/PersianFlutter/dashatars)) in Flutter projects.
