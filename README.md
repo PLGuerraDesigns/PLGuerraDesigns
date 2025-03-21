@@ -33,11 +33,11 @@
 
 ## 📦 Flutter Packages
 
-- [Pull Tab Menu](https://pub.dev/packages/pull_tab_menu) - Elegant context menus for Flutter apps via a discreet pull-out tab. Preserves clean aesthetics while providing quick access to actions.
-- [Widget Snippet](https://pub.dev/packages/widget_snippet) - A Flutter package for showcasing widget code snippets. Display, copy, and download widget previews with their source code in various presentation formats.
-- [Dashatar Flutter](https://pub.dev/packages/dashatar_flutter) - A Flutter package that provides an API for using Dash avatars ([Dashatars](https://github.com/PersianFlutter/dashatars)) in Flutter projects.
-- [HoverScaleHandler](https://pub.dev/packages/hover_scale_handler) - A Flutter widget that adds hover and tap scale animations to any widget, enhancing user interaction with visual feedback.
-- [IntuoSol Design System](https://pub.dev/packages/intuosol_design_system) - A Flutter design system package that provides IntuoSol's brand-consistent UI components, theming with Oxanium font, and logos.
+- [Pull Tab Menu](https://github.com/intuosol/pull_tab_menu) - Elegant context menus for Flutter apps via a discreet pull-out tab. Preserves clean aesthetics while providing quick access to actions.
+- [Widget Snippet](https://github.com/intuosol/widget_snippet) - A Flutter package for showcasing widget code snippets. Display, copy, and download widget previews with their source code in various presentation formats.
+- [Dashatar Flutter](https://github.com/intuosol/dashatar_flutter) - A Flutter package that provides an API for using Dash avatars ([Dashatars](https://github.com/PersianFlutter/dashatars)) in Flutter projects.
+- [HoverScaleHandler](https://github.com/intuosol/hover_scale_handler) - A Flutter widget that adds hover and tap scale animations to any widget, enhancing user interaction with visual feedback.
+- [IntuoSol Design System](https://github.com/intuosol/intuosol_design_system) - A Flutter design system package that provides IntuoSol's brand-consistent UI components, theming with Oxanium font, and logos.
 
   
 <br />
